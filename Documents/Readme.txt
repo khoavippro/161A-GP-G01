@@ -1,0 +1,1 @@
+Onlye file .txt, .doc, .ppt
